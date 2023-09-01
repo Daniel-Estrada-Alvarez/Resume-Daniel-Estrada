@@ -23,9 +23,13 @@
 - Maintained documentation in claim files by compiling client, event, and contract data
 - Interpreted insurance contracts to determine liability and coverage achieving first call resolution 70% of the time
 - Led a diverse team to achieve top quartile results by:
+  
   -Gathering, analyzing, and trending data to target specific goals
+  
   -Developing actionable, traceable, and executable coach plans
+  
   -Leveraging different motivators to drive performance
+  
 - Simultaneously operated myriad computer software to process complex transactions while keeping accurate up-to-date files with customer details, risk, and exposure threats improving premium calculation and forecasting by more than half
 
 ## Projects
