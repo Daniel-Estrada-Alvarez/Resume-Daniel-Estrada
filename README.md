@@ -17,6 +17,8 @@
 - Increased the test automation infrastructure blueprint by maintaining at least 80%-line coverage with unit tests using Junit, Mockito, Jupiter, Karma, Jasmine, and Jest
 - Utilized shell scripts to seamlessly deploy and manage backend processing tasks, orchestrated through enterprise schedulers such as AutoSys and Tidal, ensuring smooth and reliable execution of critical job processes.
 - Directly contributed to a 10% reduction on annual volume of user generated IT tickets by enhancing app functionality
+- Delivered 24/7 on-call support for mission-critical microservices vital to government agencies, ensuring uninterrupted service availability and rapid issue resolution
+- Streamlined file storage by transitioning from traditional database BLOB storage to S3, successfully migrating all data files to the cloud environment optimizing data accessibility, scalability, and cost-efficiency
 - Achieved 100% on-time delivery of business features
 
 **COACH/AGENT/CLAIMS SPECIALIST @ GEICO (_May 2015 - March 2021_)**
