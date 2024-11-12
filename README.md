@@ -35,7 +35,7 @@ Designed and engineered an advanced water monitoring system leveraging the cost-
 Notably, the system featured intelligent valves capable of dynamically redirecting water flow based on turbidity levels, demonstrating its capacity to optimize water distribution and ensure its quality.
 
 ## Certifications
-- Microsoft Certified: Azure Fundamentals - Microsoft, Expected Fall 2023
+- Microsoft Certified: Azure Fundamentals (Cloud Computing) - Microsoft
 - Mechanical Certified Drafter (AD) - Arizona Skills Standards Commission, Spring 2010
 - Lean Six Sigma White Belt - GEICO, Summer 2019
 - Lean Six Sigma Yellow Belt - GEICO, Summer 2019
